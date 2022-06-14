@@ -11,6 +11,13 @@
 
     <artifactId>utility</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.condueet</groupId>
+            <artifactId>data</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>

@@ -1,4 +1,4 @@
-package com.condueet.project;
+package com.condueet.project.exceptions;
 
 public class AllBankException extends Exception{
     public AllBankException() {

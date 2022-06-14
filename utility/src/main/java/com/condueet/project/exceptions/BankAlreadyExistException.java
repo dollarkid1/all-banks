@@ -1,4 +1,4 @@
-package com.condueet.project;
+package com.condueet.project.exceptions;
 
 public class BankAlreadyExistException extends AllBankException{
     public BankAlreadyExistException() {
